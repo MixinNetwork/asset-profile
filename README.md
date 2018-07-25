@@ -11,7 +11,7 @@ git clone git@github.com:xxxxxxxx/asset-profile.git
 c6d0c728-2624-429b-8e0d-d9d19b6592fa
 ```
 5. Add a file named index.json, and fulfill the content by following the schema of `index.json`, you can get cmc_id from https://api.coinmarketcap.com/v1/ticker/?limit=0, which is `id` of the asset in coinmarketcap.
-6. Add the logo named `cover.png`
+6. Add the logo named `icon.png`
 7. Besides, if you find that your token has been added, you can modify the related file and logo as well
 8. Commit the changes
 9. Push to your own repo
@@ -23,6 +23,6 @@ c6d0c728-2624-429b-8e0d-d9d19b6592fa
 You're totally responsible for your commit, so please make sure that the information and logo are real and valid.
 
 ### Logo design
-- Size: 520x520 pixels
-- Transparent background PNG
-- Brand identity
+- Size: 520x520 pixels.
+- Image must be round and the background shouldn’t be transparent and white.
+- Brand identity.
