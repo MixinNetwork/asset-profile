@@ -16,8 +16,8 @@ c6d0c728-2624-429b-8e0d-d9d19b6592fa
 
 To get your token asset_id within mixin network. Herewith to do asf :
 
-- Download mixin messanger app ( https://mixin.one/ ), follow the step , watch video for your ref https://youtu.be/oGk5ZBJxb6s.
-- After completed created pin wallet winthin mixin messanger. Send/deposit your token to mixin messanger wallet. If erc20 token, send your token to your ethereum address in mixin messanger. Once your token deposit successfully inside mixin messanger wallet. Klik on it and copy the transaction id.
+- Download Mixin Messanger app ( https://mixin.one/messenger )
+- After completed created pin wallet winthin Mixin Messanger. Send/deposit your token to mixin messanger wallet. If erc20 token, send your token to your ethereum address in Mixin Messanger. Once your token deposit successfully inside Mixin Messanger wallet. Klik on it and copy the transaction id.
 
 Faste your transaction id in ( search transaction field ) at https://mixin.one/snapshots than enter. Afterward, you will be redirected to another page eq : https://mixin.one/snapshots/37568840-72ee-4b51-bbc0-16a6cfd1de99. And in the bottom of page. you will see ASSET name. Click the link below of ASSET, the result will be as example here https://mixin.one/snapshots/4d977d4e-af34-360e-ba03-f546a3f14fcb .
 
