@@ -23,7 +23,7 @@ Faste your transaction id in ( search transaction field ) at https://mixin.one/s
 
 The random word and number ( example : 4d977d4e-af34-360e-ba03-f546a3f14fcb ). That is your token asset_id in mixin network.
 
-5. Add a file named index.json, and fulfill the content by following the schema of `index.json`, you can get cmc_id from https://api.coinmarketcap.com/v1/ticker/?limit=0, which is `id` of the asset in coinmarketcap.
+5. Add a file named index.json, and fulfill the content by following the schema of `index.json`, you can get coingecko id from https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd, which is `id` of the asset in coingecko.
 6. Add the logo named `icon.png`
 7. Besides, if you find that your token has been added, you can modify the related file and logo as well
 8. Commit the changes
