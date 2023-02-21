@@ -42,3 +42,8 @@ You're responsible for your commitment, so please ensure that the information an
 - Size: 520x520 pixels.
 - The image must be round, and the background shouldn’t be transparent and white.
 - Brand identity.
+
+### Others
+
+- Please make sure your icon is legal and copyright.
+- Token with fake name or icon will not be accepted.
